@@ -2,7 +2,7 @@ import telebot
 from logic import gen_pass
 import time, threading, schedule
 
-TOKEN = "8112721866:AAFumIK75Uao7N3VQnmDKVn-S5wewfwBVik"
+TOKEN = 
 
 bot = telebot.TeleBot(TOKEN)
     
